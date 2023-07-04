@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="245e9661-cd48-404d-9847-bef89630b46e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Book/Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deq/Deq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam/Exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_18My/Lab_18My.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba2/Laba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labala/Labala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAs/MAs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewSortLab/NewSortLab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practik/Practik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Progra/Progra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/main/java/org/example/presentation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rast Algoritms/Rast Algoritms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoadCamera/RoadCamera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/Udemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work2/Work2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/binaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph/graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if/if.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kab5/kab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/lab13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab14/lab14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_11/lab_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_13/lab_13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_13/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_recursive/Tree and DoblyList/Tree and DoblyList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_recursive/lab_recursive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twoDesimalMasive/twoDesimalMasive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two_Folder/src/t5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two_Folder/two_Folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/untitled9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../while/while.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labka2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../labka2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labka2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../labka2/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2REKqi51dP5zKQ8KFjBD0QnJ2A5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/negon/Загрузки/Libriry/jackson-databind-2.15.2.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ekz.Main" />
+      <module name="ekz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ekz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245e9661-cd48-404d-9847-bef89630b46e" name="Changes" comment="" />
+      <created>1686809995287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686809995287</updated>
+    </task>
+    <servers />
+  </component>
+</project>

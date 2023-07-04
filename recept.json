@@ -1,0 +1,26 @@
+[ {
+  "name" : "Ананас",
+  "ingredients" : [ "аха" ],
+  "instructions" : "а",
+  "rating" : 5
+}, {
+  "name" : "ала",
+  "ingredients" : [ "в" ],
+  "instructions" : "а",
+  "rating" : 5
+}, {
+  "name" : "Олівє",
+  "ingredients" : [ "аа" ],
+  "instructions" : "аа",
+  "rating" : 4
+}, {
+  "name" : "саня",
+  "ingredients" : [ "а" ],
+  "instructions" : "п",
+  "rating" : 3
+}, {
+  "name" : "салат",
+  "ingredients" : [ "а" ],
+  "instructions" : "п",
+  "rating" : 1
+} ]
